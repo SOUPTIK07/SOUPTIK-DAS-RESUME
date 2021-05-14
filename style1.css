@@ -1,0 +1,197 @@
+@import url("https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.15.3/css/fontawesome.min.css");
+@import url('https://fonts.googleapis.com/css2?family=Rubik:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Goblin+One&display=swap" rel="stylesheet');
+
+
+#OBJECTIVES
+{
+
+		background-color: #778899;
+		padding: 7% 15%;
+
+}
+
+#tab{
+	font-family: 'Rubik', sans-serif;
+	padding: 7% 15%;
+
+}
+#techlan{
+	background-color:#075a43 ;
+	padding: 3% 10%;
+	color: #ffffff;
+	font-family: 'Rubik', sans-serif;
+
+}
+
+#known{
+font-family: 'Rubik', sans-serif;
+	background-color:#039679 ;
+	 font size: 5px;
+	padding: 7% 15%;
+}
+#protrain{
+	padding: 3% 10%;
+	color: #ffff;
+	font-family: 'Rubik', sans-serif;
+}
+#trainpro{
+	padding: 7% 15%;
+	background-color:#e6e9eb; 
+}
+#bsnl{
+	
+	text-align: center;
+	background-color: FE1C46;
+	color: #ffffff;
+}
+#awa{
+	padding: 3% 10%;
+	text-align: center;
+	font-family: 'Rubik', sans-serif;
+	background-color: #ff8c00;
+	color: #ffff;
+}
+#awardss{
+	background-color:#fff2c7;
+	padding: 7% 15%;
+}
+#nptel{
+	text-align: center;
+	background-color:#007063;
+	color: #ffffff;
+	padding: 7% 15%;
+}
+#c{
+	text-align: center;
+	background-color: #079c8b;
+	color: #ffffff;
+	padding: 7% 15%;
+}
+#kv{
+	text-align: center;
+	background-color: #29c7b4;
+	color: #ffffff;
+	padding: 7% 15%;
+}
+#youth{
+	text-align: center;
+	background-color: #02d4bc;
+	color: #ffffff;
+	padding: 7% 15%
+}
+#personalllll{
+	background-color:#e2fae0;
+	padding: 7% 15%;
+
+}
+#persoaln{
+	text-align: center;
+	background-color:#012a45;
+	color: #ffffff;
+	padding: 7% 15%;
+}
+#contact{
+	background-color: #2e2e2f;
+	color: #ffff;
+	padding: 7% 15%;
+}
+#footer{
+	padding: 7% 15%;
+	
+}
+#copy{
+	background-color: #000000;
+	padding: 3% 7%;
+	color: #ffff;
+}
+.tlp{
+	color: #ffffff
+}
+.me{
+
+	width: 300px;
+	height: 360px;
+	margin-left: 38%;	
+}
+.down{
+	padding-right: 20px;
+	margin-right: 10px;
+}
+.bsnlimm{
+	margin: 30px;	
+}
+.null{
+	
+	width: 30%;
+	border-radius: 100%;
+	margin: 30px;
+}
+.carousel-item{
+	padding: 7% 15%;
+}
+.intro{
+	
+	
+	padding: 7% 15%;
+	
+	color:030303;
+	 font-family: 'Goblin One', cursive;
+	 font size: 40px;
+	 font font-weight: 700;
+	 display: inline-block;
+	 line-height: 50px;
+
+}
+.card{
+	font-family: 'Rubik', sans-serif;
+}
+.card:hover{
+	transform: scale(1.2);
+
+}
+.btn1{
+	font-size: 16px;
+	font-family: 'Rubik', sans-serif;
+	margin-bottom: 5px;
+	margin-left: 35%;
+	margin-top: 50px;
+}
+.btn2{
+	font-size: 16px;
+	font-family: 'Rubik', sans-serif;
+	margin-bottom: 5px;
+	margin-left: 100px;
+	margin-top: 50px;
+}
+.btn:hover{
+	
+	transform: scale(1.1);
+}
+.socia{
+	margin:20px 10px; 
+
+}
+.socia:hover{
+	transform: scale(1.5);
+}
+.blockquote{
+	color: #000000;
+}
+	
+h3{
+	font-size:3rem;
+	line-height: 2.5;
+	color: #F5FFFA
+}
+
+
+h2{
+	font-size: 2rem;
+	line-height: 1.5;
+	color: #F5FFFA
+}
+a{
+	color: #ffff;
+	text-decoration: none;
+}
